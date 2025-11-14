@@ -9,7 +9,7 @@ return (
       </header>
       <div className="calendar-container">
         <div className="calendar-wrapper">
-         <Calendar date={new Date('2025-10-10')} />
+         <Calendar date={new Date('2025/10/10')} />
         </div>
       </div>
     </div>
